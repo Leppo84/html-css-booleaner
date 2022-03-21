@@ -1,3 +1,11 @@
-body {
-    background-color: red;
+Header {
+    background-color: 6598D0;
+}
+
+.pale-blue {
+    color: 6598D0;
+}
+
+main h5, main h6 {
+    color: darkgrey;
 }
