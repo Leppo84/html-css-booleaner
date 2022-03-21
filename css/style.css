@@ -9,8 +9,9 @@ ul {
 }
 
 Header {
-   background-color: #6598D0;
-   background-image: url("../img/pattern.png");
+    background-color: #6598D0;
+    background-image: url("../img/pattern.png");
+    background-size: 30%;
 }
 
 .boo-logo {
@@ -30,14 +31,14 @@ p span {
     background-color: yellow;
 }
 
-main h4, main h5 {
+main h4, main h5, footer h4{
     color: darkgrey;
 }
 
 table {
-        border-collapse: collapse;
-        width: 100%;
-        text-align: left;
+    border-collapse: collapse;
+    width: 100%;
+    text-align: left;
 }
 
 thead tr {
