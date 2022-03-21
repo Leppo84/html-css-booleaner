@@ -1,11 +1,29 @@
+/* *{
+    margin: 0;
+    padding: 0;
+} */
+
 Header {
-    background-color: 6598D0;
+   background-color: #6598D0;
+   background-image: url("../img/pattern.png");
+}
+
+.boo-logo {
+    width: 20%;
+    margin-top: 3vh;
+}
+
+h1 {
+    margin-top: 2vh;
 }
 
 .pale-blue {
-    color: 6598D0;
+    color: #6598D0;
 }
 
-main h5, main h6 {
+main h4, main h5 {
     color: darkgrey;
+    margin: 0;
 }
+
+
