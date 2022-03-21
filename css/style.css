@@ -53,3 +53,19 @@ thead tr {
 td {
     padding-right: 50px;
 }
+
+.canvas1 {
+    text-align: center;
+    color: white;
+    width: 312px;
+    height: 208px;
+    background-image: url("../img/monitor.jpg");
+}
+
+.canvas2 {
+    text-align: center;
+    color: white;
+    width: 312px;
+    height: 208px;
+    background-image: url("../img/graph.jpg");
+}
